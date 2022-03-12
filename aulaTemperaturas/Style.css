@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    display: table;
+    padding-top: 2vw;
+}
+body{
+    background-color: #222222;
+}
+h1{
+    color: #fff;
+    padding-bottom: 2vw;
+}
+#opcao{
+    margin-top: 2vw;
+    text-align: center;
+}
+#calcular{
+    margin-top:2%;
+    padding: 15px;
+    font-size: 18px;
+    background-color: #ffffff;
+}
+#calcular.hover{
+    background-color: #1d1d1d;
+}
+#valor{
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 2vw;
+    color: #000000;
+}
+#opcao{
+    display: block;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 1vw;
+    color: #000000;
+}
+p{
+    color: #fff;
+    margin-top: 1vw;
+    font-size: 30px;
+}
